@@ -42,7 +42,7 @@ module.exports = {
   protectedRoutes: ['/share/工具程序', '/Demo/😎Another Private Folder Password 123'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:k@te.com',
+  email: 'mailto:admin@mios.fun',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
